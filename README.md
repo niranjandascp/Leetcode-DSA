@@ -18,14 +18,17 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -35,4 +38,8 @@
 | [1148-article-views-i](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
