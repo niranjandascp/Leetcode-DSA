@@ -77,8 +77,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
