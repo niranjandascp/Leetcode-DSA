@@ -18,18 +18,21 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -64,5 +67,18 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0547-number-of-provinces/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
