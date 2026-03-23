@@ -12,5 +12,6 @@ var mergeAlternately = function(word1, word2) {
         if (j < word2.length) result += word2[j++];
     }
 
+
     return result;
 };
