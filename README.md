@@ -89,6 +89,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0994-rotting-oranges](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -110,4 +111,20 @@
 | ------- | ------- |
 | [0994-rotting-oranges](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
