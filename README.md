@@ -72,6 +72,7 @@
 | [1251-average-selling-price](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1321-restaurant-growth/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1484-group-sold-products-by-the-date/) | Easy |
