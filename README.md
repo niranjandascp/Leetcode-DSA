@@ -103,6 +103,7 @@
 | [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0994-rotting-oranges](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/niranjandascp/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/niranjandascp/Leetcode-DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2462-total-cost-to-hire-k-workers](https://github.com/niranjandascp/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/niranjandascp/Leetcode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/niranjandascp/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/niranjandascp/Leetcode-DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -157,4 +160,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2542-maximum-subsequence-score](https://github.com/niranjandascp/Leetcode-DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/niranjandascp/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 <!---LeetCode Topics End-->
