@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/niranjandascp/Leetcode-DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@
 | [0162-find-peak-element](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/niranjandascp/Leetcode-DSA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
