@@ -114,6 +114,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0399-evaluate-division](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0399-evaluate-division/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Shortest Path
@@ -155,6 +156,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/niranjandascp/Leetcode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -172,4 +174,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/niranjandascp/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
