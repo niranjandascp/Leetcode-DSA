@@ -180,4 +180,16 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0216-combination-sum-iii](https://github.com/niranjandascp/Leetcode-DSA/tree/main/0216-combination-sum-iii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/niranjandascp/Leetcode-DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
